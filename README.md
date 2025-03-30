@@ -1,5 +1,3 @@
-"# PingPongGame" 
+# PingPongGame
 ![image](https://github.com/user-attachments/assets/0af50b92-5d9b-44da-b0fb-298f3fa501e5)
-
-![Screenshot (219)](https://github.com/user-attachments/assets/abb225b6-c05b-464e-a8c1-7418371fa641)
-![Screenshot (218)](https://github.com/user-attachments/assets/c799afbb-cdd3-488e-9e11-6844d51b47f2)
+![image](https://github.com/user-attachments/assets/238ccee7-0e62-4b1a-a214-7b471832178b)
